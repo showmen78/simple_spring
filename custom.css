@@ -11,3 +11,8 @@ body{
     height: 100vh;
     background-color: gray;
 }
+h1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
