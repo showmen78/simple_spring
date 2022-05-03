@@ -1,0 +1,13 @@
+
+body{
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+#screen{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+}
